@@ -9,7 +9,7 @@ Oleh karena itu, perlu kiranya dibuat sebuah sistem informasi Pemesanan. Sistem 
 **Cara Menjalankan di local :
 
 Aplikasi ini dapat dijalankan di local dengan cara sebagai berikut, yaitu :
-1. Memindahkan folder suna_raihanf ke htdocs yang berada di xampp
+1. Memindahkan  folder suna_raihanf yang sudah disatukan ke htdocs yang berada di xampp
 2. Menjalankan XAMPP serta mengaktifkan apache dan mysql
 3. Memastikan perangkat terhubung dengan suatu jaringan
 4. Memeriksa ip terkait dengan perangkat yang terhubung menggunakan ip config pada cmd
